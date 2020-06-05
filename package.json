@@ -1,0 +1,10 @@
+{
+  "name": "apollo-server-lambda-nodejs",
+  "version": "1.0.0",
+  "description": "How to Build and Deploy a GraphQL Server in AWS Lambda Using Node.js and CloudFormation",
+  "main": "src/index.ts",
+  "repository": "git@github.com:shawn-dsz/silver-octo-winner.git",
+  "author": "shawn-dsz",
+  "license": "MIT",
+  "private": false
+}
